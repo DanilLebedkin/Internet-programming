@@ -1,0 +1,69 @@
+
+    h1{
+    text-align: center;
+    background-color:#383377;
+    padding: 25px;
+    color: white;
+
+    }
+ img{
+        width: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto; 
+    }
+    h1,h2 {
+        font-family: "cournew";  
+        font-size: 22px;
+
+
+    }
+  @font-face {
+        font-family: cournew;
+        src: url('fonts/couriernew.ttf');
+        font-family: cournewbold;
+        src: url('fonts/cournewbold.ttf');
+    }
+body{
+    background-color:#F5F5F5;
+    margin-left: 10%;
+    margin-right: 10%; 
+   
+}
+p{
+    font-size: 16px;
+    text-align: justify;
+    font-family: cournew;
+}
+
+.h2
+{
+   color: white;
+   background-color: #333333;
+   margin-left:  -10%;
+   margin-right:  -10%;
+   padding: 20px;
+   text-align: center;
+}
+.emoji{
+    padding: 10px;
+    margin-left: 40px;
+    margin-top:30px;
+    background-color:#383377;
+    font-size: 25px;
+    border-radius: 100%;
+}
+.emoji1{
+    text-align: center;
+}
+li{
+margin-left:50px;
+}
+
+hr{
+    margin-left: -10%;
+    margin-right: -10%; 
+     
+}
+/*MISTRAL
+/*couriernew
